@@ -1,4 +1,25 @@
 File类指向文件或者文件夹
+#### 创建File对象
+File(路径)；
+FIle(父文件路径，子文件路径)
+#### 创建不存在的文件
+Fileobject.creatNewFile()
+#### 删除已经存在的文件或者空文件夹
+```
+File f=new File("path/to/filr);
+f.delete();
+```
+#### 创建文件
+单级文件: mkdir
+多级文件: mkdirs
+#### 获取文件信息
+getName
+getAbsolutePath
+getParent
+length()：文件大小、字节
+exists
+isFile
+isDirectory
 #### 目录列表
 ```
 File path=new File(".");
