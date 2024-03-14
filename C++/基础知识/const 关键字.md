@@ -31,7 +31,7 @@ const &r =temp;
 ```
 
 #### const和指针
-指向常量的指针：
+指针常量：指针指向常量
 ```
 const int a=10;
 const int *p=&a;
