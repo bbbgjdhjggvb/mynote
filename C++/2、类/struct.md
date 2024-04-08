@@ -8,6 +8,15 @@ int add() const;//声明
 int add() const{}//实现
 ```
 常量成员函数的this的类型是const Type * const。
+#### 可变数据成员
+mutable修饰的成员，即使是一个常量对象的成员也是可修改的
+#### 类类型数据成员
+```
+class xxx{
+	typedef str_size strlen;
+};
+使用xxx::strlen len=str.size();
+```
 
 #### 类内声明，类外定义
 ```
@@ -28,3 +37,5 @@ struct xxx{
 xxx::xxx(int &num1):a(num1){}
 ```
 先执行：后面的初始化再执行括号里面的
+#### 内联成员函数
+用inline修饰小体量函数，在调用函数时直接替代。
