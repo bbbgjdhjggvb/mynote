@@ -21,3 +21,11 @@ cout<<unitbuf;//接下来无需手动刷新
 cout<<"xxx";
 cout<<nounitbuf;//回归手动刷新状态
 ```
+#### 1.4 IO类常用函数
+由于继承，所以cin,cout相关方法其他IO类也可使用
+1. >>
+2. <<
+3. getline
+4. ignore
+5. get
+6. .str()string流专用，获取流中的string对象
