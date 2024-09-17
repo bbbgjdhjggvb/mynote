@@ -49,9 +49,8 @@ glBindVertexArray(0);
 ```
 
 #### 使用流程
-1. 为VAO， VBO，EBO创建空间
-2. 将VAO绑定到VertexArray，一定要先，先有画布再有元素
-3. 将VBO绑定到Buffer，然后绑定内容
-4. 将EBO绑定到Buffer，然后绑定内容
+1. 将VAO绑定到VertexArray，一定要先，先有画布再有元素
+2. 生成VBO空间，将VBO绑定到Buffer，然后绑定内容
+3. 生成EBO空间，将EBO绑定到Buffer，然后绑定内[[4、Element Buffer Objects]]
 5. 创建VertexArrayPointer
 6. 开启绘制属性

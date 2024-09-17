@@ -114,7 +114,7 @@ glUserProgram(shaderProgram);
 3. and main function
 4. vertex的out变量名字必须和fragment的in变量名字相同这样才能链接器shader
 ##### structure
-```
+```glsl
 #version version_number
 in type var;
 
@@ -139,7 +139,7 @@ void main(){
 6. dvecn
 7. 可以使用vec.x, vec.y, vec.z, vec.w去access 各个components
 8. 随意组合语法
-```
+```c++
 vec4 vec = avec.xyxx;
 vec4 vec = avec.xxxx + bvec.yyyy;
 vec2 ve2;
@@ -156,7 +156,7 @@ vec4 vec(ve2, 0 ,0);
 
 
 ##### 将GLSL文件写入字符数组
-```
+```c++
 char *readSource(std::string &filename){
 	std::ifstream file(filename, std::ios::binary | std::ios::ate);
 	if(!file){
