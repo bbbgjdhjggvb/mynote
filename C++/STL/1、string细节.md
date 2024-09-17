@@ -33,6 +33,7 @@ append(str)
 4. strstr
 	1. 返回字符串str2在str1中第一次出现的位置
 	2. strstr(str1,str2)
+<<<<<<< HEAD
 
 
 #### 利用流操作来实现string的split函数
@@ -75,3 +76,5 @@ std::equals(s.begin(), s.end(), os,begin());自动比较begin到end这个范围�
 ```
 const char * xxx = xxxstr.c_str();
 ```
+=======
+>>>>>>> 07fe26995e37b4a982ed8ddf160d45970eb38d37
