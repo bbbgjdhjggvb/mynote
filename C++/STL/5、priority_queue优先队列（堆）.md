@@ -11,7 +11,7 @@
 4. 移除优先队列中的优先级最高的元素：`pop()`
 5. 获得优先级最高的元素：`top()`
 6. 自定义优先级
-	1. 默认使用的模板是`std::less<int>`
+	1. 默认使用的模板是`std::less<int>`，top是最大的
 ```
 std::priority<int,比较的容器类型vector<int>,std::greater<int>>
 class mycompare{

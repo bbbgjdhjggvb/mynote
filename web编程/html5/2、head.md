@@ -1,6 +1,7 @@
 #### link
 1. 显示tab上标签`<link rel="icon" href="相对路径">`
 2. 可选源size="32*32"
+3. 链接css样式文件`<link rel = "stylesheet" href="css文件路径">`
 #### meta
 1. 设置显示窗口随移动设备调整窗口：`<meta name="viewport" content="width=device-width, initial-scale=1.0">`
 2. 描述关键词，搜索引擎：
