@@ -118,7 +118,7 @@ glUserProgram(shaderProgram);
 #version version_number
 in type var;
 
-out type var;
+	out type var;
 
 uniform type name;
 

@@ -1,0 +1,11 @@
+1. `Math.sqrt()`：开方
+2. `Math.power(2,4)`：幂
+3. `Math.abs(-9)`：绝对值
+4. `Math.ceil()`：向上取整数
+5. `Math.floor()`：向下取整数
+6. `Math.round()`：四舍五入
+7. `Math.ramdon()`：返回\[0,1)的随机小数
+	1. \[a,b]
+		1. `(int)(a+Math.random()*(b-a+1))`
+8. `Math.max(1,9)`
+9. `Math.min(1,9)`
