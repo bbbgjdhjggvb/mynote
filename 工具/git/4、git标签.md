@@ -3,7 +3,7 @@
 ```
 在想要创建标签的分支
 git tag v1.0 #默认在最新的commit创建标签
-git tag fe3u v2.0 #在指定commit创建标签
+git tag v2.0 afdd #在指定commit创建标签
 git tag v1.0 -m "" #说明信息
 ```
 
