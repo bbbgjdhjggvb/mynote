@@ -1,4 +1,4 @@
-		#### VBO
+#### VBO
 存放点的属性的数组
 ![[Pasted image 20240910152738.png]]
 创建VBO对象
@@ -37,3 +37,11 @@ glDrawArrays(GL_TRIANGLES, 0, 3);
 //第二个参数说明要渲染的vertex的起始地址
 //第三个参数说明要渲染的vertex数量
 ```
+
+#### glBufferSubData函数
+1. 作用：对于已经使用glBufferData绑定数据的内存，可以重新绑定内容
+2. 参数：
+	1. 数据类型
+	2. offset
+	3. 数据大小
+	4. 是数据指针
