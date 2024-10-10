@@ -42,6 +42,4 @@ elseif(UNIX)
 1. PRIVATE：表示这个栈的设置仅仅使用与当前项目
 2. PUBLIC：标志这个栈的设置适用于当前目标，也适用于依赖这个目标的其他目标
 3. INTERFACE：表示当前目标不适用，适用于依赖这个目标的其他目标
-=======
 cmake DCMAKE_EXPORT_COMPILE_COMMANDS=1 ..
->>>>>>> 07fe26995e37b4a982ed8ddf160d45970eb38d37
