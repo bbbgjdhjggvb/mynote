@@ -82,7 +82,7 @@ else
 {
     std::cout << "Failed to load texture" << std::endl;
 }
-					stbi_image_free(data);
+stbi_image_free(data);
 ```
 1. `stbi_load()`函数
 	1. 返回的是图片的矩阵
@@ -156,3 +156,25 @@ glBindTexture(GL_TEXTURE_2D, texture);
 glBindVertexArray(VAO);
 glDrawElements(GL_TRIANGLES, 6, GL_UNSIGNED_INT, 0);
 ```
+
+### Texture Units
+在vertexshader中我们将sample2D设置为uniform可以用来绑定多个材质，或者换材质
+```
+shader.use();
+glUniform1i(glGetUniformLocation(shader.ID, "texture0"), 0);
+glUniform1i(glGetUniformLocation(shader.ID, "texture1"), 1);
+```
+1. `glUniform1i`的第二个参数
+	1. 0表示texture内存中第0个texture，以此类推
+2. 在重新绑定uniform变量前要使用`shader.use()`
+渲染的代码将如下进行更新
+```
+glActiveTexture(GL_TEXTURE0);
+glBindTexture(GL_TEXTURE_2D, texture0);
+glActiveTexture(GL_TEXTURE1);
+glBindTexture(GL_TEXTURE_2D, texture1);
+```
+出来的效果如下，因为opengl认为在y轴上，0.0表示的是图像的底部。
+![[Pasted image 20241012104442.png]]
+使用stb库中函数进行翻转`stbi_set_flip_vertically_on_load(true)`
+
