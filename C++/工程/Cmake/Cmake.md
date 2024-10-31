@@ -22,7 +22,6 @@
 3. 编译上级目录中的cmakelists文件
 4. 执行make生成target
 #### clang
-<<<<<<< HEAD
 cmake DCMAKE_EXPORT_COMPILE_COMMANDS=1 ..
 
 ### Cmake设置栈的大小

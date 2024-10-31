@@ -76,5 +76,8 @@ std::equals(s.begin(), s.end(), os,begin());自动比较begin到end这个范围�
 ```
 const char * xxx = xxxstr.c_str();
 ```
-=======
->>>>>>> 07fe26995e37b4a982ed8ddf160d45970eb38d37
+
+#### 将int转换为string
+```
+string s_num = std::to_string(num)
+```
