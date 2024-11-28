@@ -56,9 +56,10 @@ glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_LINEAR_MIPMAP_LINEAR); 
 
 ### load texture
 用stb库。通过宏定义的方式，启用库中函数实例。
+1. _#define一定要在include之前_
 ```
 #define STB_IMAGE_IMPLEMENTATION 
-#include "stb_image.h"
+#include <stb/stb_image.h>
 ```
 使用的基本流程
 ```c++
