@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "164ba7361bcf76c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d77ddfe5a7e0b545",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb845419eac2827a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程语言/C++/9. 新特性/variant.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "variant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c1b07bfa440dfb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "23ddd5209a1b42bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1156b93a8e5667bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "737efc8cf6b2fe69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f9e87a3876734d4e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2d2fa1af2969cb97",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ee7f057769f85d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "341fe3323a520dd2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数据结构与算法/数论/最大公约数和最小公约数.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "最大公约数和最小公约数 的反向链接列表"
+            }
+          },
+          {
+            "id": "877c51ad91b71302",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数据结构与算法/数论/最大公约数和最小公约数.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "最大公约数和最小公约数 的出链列表"
+            }
+          },
+          {
+            "id": "8b5fd4c3474fe94e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "8cbb5ed86b6308bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数据结构与算法/数论/最大公约数和最小公约数.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "最大公约数和最小公约数 的大纲"
+            }
+          },
+          {
+            "id": "4328ea5d11dd077d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "1156b93a8e5667bc",
+  "lastOpenFiles": [
+    "编程语言/C++/11. 工程/g++ 编译器.md",
+    "编程语言/C++/添加环境变量.md",
+    "计算机系统/操作系统/xv6/1. 运行xv6仿真器.md",
+    "数据结构与算法/数论/最大公约数和最小公约数.md",
+    "计算机系统/操作系统/xv6",
+    "数据结构与算法/1、排序算法.md",
+    "编程语言/C++/9、c++进程.md",
+    "编程语言/C++/8. 泛型算法/数学运算.md",
+    "编程语言/C++/10 . STL/5、priority_queue优先队列（堆）.md",
+    "数据结构与算法/未命名.md",
+    "数据结构与算法/数论",
+    "编程语言/C++/10 . STL/4、map容器.md",
+    "数据结构与算法/图算法/1. 拓扑排序.md",
+    "编程语言/C++/9. 新特性/3. lambda表达式.md",
+    "编程语言/C++/8. 泛型算法/排序算法.md",
+    "编程语言/C++/8. 泛型算法/查找算法.md",
+    "编程语言/C++/8. 泛型算法/比较算法.md",
+    "编程语言/C++/1、基础知识/5. 数组.md",
+    "编程语言/C++/1、基础知识/4. 左值、右值、左值引用、右值引用.md",
+    "编程语言/C++/1、基础知识/3. const 关键字.md",
+    "编程语言/C++/1、基础知识/2. 函数.md",
+    "数据结构与算法/图算法/4. 最小生成树.md",
+    "数据结构与算法/图算法/3. 深度优先搜索.md",
+    "数据结构与算法/图算法/2. 广度优先搜索.md",
+    "Excalidraw/Kahn.md",
+    "数据结构与算法/高精度/2. python直接支持高精度.md",
+    "数据结构与算法/高精度/1. 大整数运算.md",
+    "编程语言/C++/10 . STL/2、顺序容器.md",
+    "数据结构与算法/竞赛技巧"
+  ]
+}
