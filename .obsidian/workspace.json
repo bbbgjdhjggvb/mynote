@@ -6,7 +6,7 @@
       {
         "id": "5bb322a58923e629",
         "type": "tabs",
-        "dimension": 30.383795309168445,
+        "dimension": 55.87855297157623,
         "children": [
           {
             "id": "363446fb35e6d9f1",
@@ -14,29 +14,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english/词根词缀/词根/3. ver, vers, vert, vol, var = to turn 表示转.md",
+                "file": "计算机系统/archLinux/清除缓存.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. ver, vers, vert, vol, var = to turn 表示转"
+              "title": "清除缓存"
             }
           }
         ]
       },
       {
-        "id": "2a8afb04260985d1",
+        "id": "c3636846395dea9f",
         "type": "tabs",
-        "dimension": 69.61620469083155,
+        "dimension": 44.12144702842377,
         "children": [
           {
-            "id": "f7fffcdb529bafda",
+            "id": "f9f43a2edca35b55",
             "type": "leaf",
             "state": {
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of 3. ver, vers, vert, vol, var = to turn 表示转"
+              "title": "Mind Map of 清除缓存"
             }
           }
         ]
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5026054382324,
-    "collapsed": true
+    "width": 328.5026054382324
   },
   "right": {
     "id": "6a51994645aee1e2",
@@ -204,45 +203,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7fffcdb529bafda",
+  "active": "363446fb35e6d9f1",
   "lastOpenFiles": [
-    "english/词根词缀/前缀/13. trans.md",
-    "english/词根词缀/词根/3. ver, vers, vert, vol, var = to turn 表示转.md",
-    "english/词根词缀/词根/2. van、ven、vent.md",
-    "未命名.md",
-    "编程语言/python/2. machine learning/数据可视化/1. numpy数组.md",
-    "编程语言/python/2. machine learning/梯度下降/1.  python内置函数实现梯度下降.md",
-    "english/词根词缀/后缀/11. fer、phor.md",
-    "english/词根词缀/前缀/3. re.md",
-    "web编程/vue/4. 路由管理.md",
-    "web编程/vue/3. 模板.md",
-    "web编程/vue/2. ref和reactive.md",
-    "编程语言/Go/8. log标准库/1. 基本使用.md",
-    "english/词根词缀/前缀/21. peri.md",
-    "english/词根词缀/前缀/20. para.md",
-    "english/词根词缀/后缀/3. ent、ant.md",
-    "web编程/vue/1. 创建vue工程.md",
-    "web编程/html5/1、基本使用和骨架.md",
-    "数据库/postgresql/3. 表操作.md",
-    "web编程/ts",
-    "web编程/未命名.md",
-    "数据库/postgresql/2. 数据库操作.md",
-    "编程语言/Go/gorm/4. 查询.md",
-    "编程语言/Go/5. 网络编程/4. Http状态码.md",
-    "计算机网络/2、应用层/3、Web和HTTP协议.md",
-    "编程语言/Go/GIN/4. 获取表单参数.md",
+    "english/词根词缀/词根/4. ver, vers, vert, vol, var = to turn 表示扭、卷.md",
+    "web编程/vue/5. axios向后端发送请求.md",
+    "web编程/vue/使用mock.js进行测试",
+    "编程语言/Go/GIN/6. 由于前端跨域请求引发问题.md",
+    "编程语言/Go/GIN/5. 路由和路由组.md",
+    "编程语言/Go/GIN/RESTful API 编码规范/未命名.md",
+    "编程语言/Go/GIN/2. 返回Json格式数据.md",
+    "编程语言/Go/GIN/RESTful API 编码规范/5.md",
     "编程语言/Go/GIN/1. 初始gin.md",
     "编程语言/Go/GIN/3. 获取querystring.md",
+    "编程语言/Go/GIN/4. 获取表单参数.md",
+    "web编程/vue/3. 模板.md",
+    "web编程/vue/4. 路由管理.md",
+    "web编程/vue/2. ref和reactive.md",
+    "web编程/vue/1. 创建vue工程.md",
+    "english/词根词缀/前缀/22. per.md",
+    "编程语言/C++/15、并行计算MPI/4. 群集通信.md",
+    "编程语言/C++/15、并行计算MPI/3. 点到点通信.md",
+    "编程语言/C++/15、并行计算MPI/2. MPI消息.md",
+    "编程语言/C++/15、并行计算MPI/1. MPI程序基本结构和函数.md",
+    "english/词根词缀/词根/1. cess、ceed、cede、grad、gress.md",
+    "编程语言/python/2. machine learning/numpy库/3. numpy一维向量运算.md",
+    "编程语言/python/2. machine learning/pytorch",
+    "编程语言/python/2. machine learning/numpy库/1. numpy数组.md",
+    "编程语言/python/2. machine learning/numpy库/2. numpy生成标准正态分布.md",
+    "编程语言/python/2. machine learning/numpy库",
+    "english/词根词缀/后缀/11. fer、phor.md",
+    "english/词根词缀/前缀/12. di、dis.md",
+    "web编程/ts",
     "english/词根词缀/mindmap",
-    "web编程/vue/未命名",
     "Pasted image 20250502165236.png",
     "web编程/vue",
     "编程语言/Go/GIN/RESTful API 编码规范",
     "english/短语",
     "编程语言/Go/8. log标准库",
     "编程语言/Go/7. 泛型",
-    "编程语言/Go/GIN",
-    "编程语言/Java/9、enum枚举",
     "z_picture/Pasted image 20241203143005.png",
     "z_picture/Pasted image 20241130153037.png",
     "z_picture/Pasted image 20241128110633.png",
