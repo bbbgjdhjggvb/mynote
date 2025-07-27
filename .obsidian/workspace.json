@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2、github"
             }
+          },
+          {
+            "id": "70377904c3fa5825",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,43 +195,43 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9178454da26fe10c",
+  "active": "70377904c3fa5825",
   "lastOpenFiles": [
-    "工具/git/4、git标签.md",
+    "conflict-files-obsidian-git.md",
     "工具/git/2、github.md",
-    "工具/git/3、git分支管理.md",
-    "工具/git/1、git.md",
-    "工具/conda/基本命令.md",
-    "编程语言/Java/7、高级编程/3. 单例设计模式.md",
-    "编程语言/Java/Maven/3、项目构建.md",
-    "编程语言/Java/Maven/2、命令行工具.md",
-    "编程语言/Java/Maven/1、基本使用.md",
-    "编程语言/Java/2、面向对象/6. 泛型.md",
-    "编程语言/Java/2、面向对象/4. 抽象类.md",
-    "编程语言/Java/2、面向对象/3. 多态.md",
-    "编程语言/Java/2、面向对象/2. 继承.md",
-    "编程语言/Java/2、面向对象/1. 封装.md",
-    "编程语言/Java/2、面向对象/7. 内部静态类.md",
-    "编程语言/Java/2、面向对象/5. 接口.md",
-    "编程语言/Java/7、高级编程/2. Builder模式.md",
-    "编程语言/Java/7、高级编程/4. 类对象的创建和销毁的好例子.md",
-    "编程语言/Java/7、高级编程/1. 静态工场方法.md",
-    "编程语言/Java/7、高级编程/5. 重写equals和hashcode方法.md",
-    "编程语言/Java/7、高级编程/7. comparable接口和comparator接口.md",
-    "编程语言/Java/7、高级编程/8. lambda表达式.md",
-    "编程语言/Java/7、高级编程/9. Stream.md",
-    "编程语言/Java/9、enum枚举/3. 高级用法.md",
-    "编程语言/Java/9、enum枚举/1. 基本使用.md",
-    "编程语言/Java/9、enum枚举/2. 常用方法.md",
-    "编程语言/Java/7、高级编程/类和接口",
-    "编程语言/Java/5、算法和数据结构",
-    "计算机系统/操作系统/文件系统",
-    "编程语言/Go/gorm",
-    "编程语言/Go/GIN",
-    "编程语言/Go/8. log标准库",
-    "编程语言/Go/7. 泛型",
-    "编程语言/python/3. django",
-    "编程语言/python/2. machine learning/numpy库",
-    "编程语言/Go/项目构建/设计模式"
+    "编程语言/Go/redis/连接redis.md",
+    "编程语言/Go/redis",
+    "编程语言/Go/Effective Go/2. 构造函数.md",
+    "编程语言/Go/Effective Go/1. 格式规范.md",
+    "编程语言/Go/Effective Go",
+    "编程语言/Go/9. 反射/1. 反射的介绍.md",
+    "编程语言/Go/9. 反射",
+    "编程语言/Go/2. 面向对象/5. 网络编程/5. 请求头中content-type字段.md",
+    "编程语言/Go/2. 面向对象/5. 网络编程/3. HTTP.md",
+    "编程语言/Go/2. 面向对象/5. 网络编程/4. Http状态码.md",
+    "编程语言/Go/2. 面向对象/5. 网络编程/2. Tcp编程.md",
+    "编程语言/Go/2. 面向对象/5. 网络编程/1. Json序列化和反序列化.md",
+    "编程语言/Go/2. 面向对象/5. 网络编程",
+    "编程语言/Go/12. 单元测试/未命名.md",
+    "编程语言/Go/12. 单元测试",
+    "编程语言/Java/工程构建工具/Maven/2、命令行工具.md",
+    "编程语言/Java/工程构建工具/Maven/3、项目构建.md",
+    "编程语言/Java/工程构建工具/Maven/1、基本使用.md",
+    "编程语言/Java/工程构建工具/Gradle/1. Gradle项目初始化配置.md",
+    "编程语言/Java/工程构建工具/Maven",
+    "编程语言/Java/工程构建工具/Gradle",
+    "编程语言/Java/工程构建工具",
+    "编程语言/Go/1. 基础知识/12. 枚举常量.md",
+    "编程语言/Go/1. 基础知识/11. 异常处理机制.md",
+    "编程语言/Go/1. 基础知识/10. 时间变量.md",
+    "数据库/redis/9. BitField位域.md",
+    "数据库/redis/8. bitmap位图.md",
+    "数据库/redis/7. HyperLogLog算法.md",
+    "数据库/redis/6. 地理位置信息.md",
+    "数据库/redis/5. 消息队列stream.md",
+    "数据库/redis/12. 主从复制.md",
+    "数据库/redis/4. 发布订阅.md",
+    "数据库/redis",
+    "编程语言/Java/7、高级编程/类和接口"
   ]
 }
