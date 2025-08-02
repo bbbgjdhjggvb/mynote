@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "164ba7361bcf76c3",
+    "id": "5c8b42395f2077c8",
     "type": "split",
     "children": [
       {
-        "id": "eb3027955591a75c",
+        "id": "83df723dac891422",
         "type": "tabs",
         "children": [
           {
-            "id": "9178454da26fe10c",
+            "id": "47a20889a655ede7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/git/2、github.md",
+                "file": "计算机网络/1、计算机网络与因特网/3、TCP，IP协议.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2、github"
-            }
-          },
-          {
-            "id": "70377904c3fa5825",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "title": "3、TCP，IP协议"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9c1b07bfa440dfb9",
+    "id": "d5c753c453462009",
     "type": "split",
     "children": [
       {
-        "id": "23ddd5209a1b42bb",
+        "id": "61e8169f1c3b578a",
         "type": "tabs",
         "children": [
           {
-            "id": "1156b93a8e5667bc",
+            "id": "b56aea1964bb6678",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +48,7 @@
             }
           },
           {
-            "id": "737efc8cf6b2fe69",
+            "id": "482cf57a74ae6ae4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "f9e87a3876734d4e",
+            "id": "8cb9f3c88ce78c45",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 300
   },
   "right": {
-    "id": "2d2fa1af2969cb97",
+    "id": "2fbb39380c06f0d5",
     "type": "split",
     "children": [
       {
-        "id": "8ee7f057769f85d4",
+        "id": "2c805bdb3b82e451",
         "type": "tabs",
         "children": [
           {
-            "id": "341fe3323a520dd2",
+            "id": "3512d462275a81a0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/数论/最大公约数和最小公约数.md",
+                "file": "计算机网络/1、计算机网络与因特网/3、TCP，IP协议.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "最大公约数和最小公约数 的反向链接列表"
+              "title": "3、TCP，IP协议 的反向链接列表"
             }
           },
           {
-            "id": "877c51ad91b71302",
+            "id": "97e3d7a9e759d34f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/数论/最大公约数和最小公约数.md",
+                "file": "计算机网络/1、计算机网络与因特网/三种交换技术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "最大公约数和最小公约数 的出链列表"
+              "title": "三种交换技术 的出链列表"
             }
           },
           {
-            "id": "8b5fd4c3474fe94e",
+            "id": "3196725dc309c888",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,22 +137,22 @@
             }
           },
           {
-            "id": "8cbb5ed86b6308bb",
+            "id": "279efc7969aaa987",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/数论/最大公约数和最小公约数.md",
+                "file": "计算机网络/1、计算机网络与因特网/三种交换技术.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "最大公约数和最小公约数 的大纲"
+              "title": "三种交换技术 的大纲"
             }
           },
           {
-            "id": "4328ea5d11dd077d",
+            "id": "36e189c402b037a7",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -195,43 +180,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "70377904c3fa5825",
+  "active": "47a20889a655ede7",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "工具/git/2、github.md",
-    "编程语言/Go/redis/连接redis.md",
-    "编程语言/Go/redis",
-    "编程语言/Go/Effective Go/2. 构造函数.md",
-    "编程语言/Go/Effective Go/1. 格式规范.md",
-    "编程语言/Go/Effective Go",
-    "编程语言/Go/9. 反射/1. 反射的介绍.md",
-    "编程语言/Go/9. 反射",
-    "编程语言/Go/2. 面向对象/5. 网络编程/5. 请求头中content-type字段.md",
-    "编程语言/Go/2. 面向对象/5. 网络编程/3. HTTP.md",
-    "编程语言/Go/2. 面向对象/5. 网络编程/4. Http状态码.md",
-    "编程语言/Go/2. 面向对象/5. 网络编程/2. Tcp编程.md",
-    "编程语言/Go/2. 面向对象/5. 网络编程/1. Json序列化和反序列化.md",
-    "编程语言/Go/2. 面向对象/5. 网络编程",
-    "编程语言/Go/12. 单元测试/未命名.md",
-    "编程语言/Go/12. 单元测试",
-    "编程语言/Java/工程构建工具/Maven/2、命令行工具.md",
-    "编程语言/Java/工程构建工具/Maven/3、项目构建.md",
-    "编程语言/Java/工程构建工具/Maven/1、基本使用.md",
-    "编程语言/Java/工程构建工具/Gradle/1. Gradle项目初始化配置.md",
-    "编程语言/Java/工程构建工具/Maven",
-    "编程语言/Java/工程构建工具/Gradle",
-    "编程语言/Java/工程构建工具",
-    "编程语言/Go/1. 基础知识/12. 枚举常量.md",
-    "编程语言/Go/1. 基础知识/11. 异常处理机制.md",
-    "编程语言/Go/1. 基础知识/10. 时间变量.md",
-    "数据库/redis/9. BitField位域.md",
-    "数据库/redis/8. bitmap位图.md",
-    "数据库/redis/7. HyperLogLog算法.md",
-    "数据库/redis/6. 地理位置信息.md",
-    "数据库/redis/5. 消息队列stream.md",
-    "数据库/redis/12. 主从复制.md",
-    "数据库/redis/4. 发布订阅.md",
-    "数据库/redis",
-    "编程语言/Java/7、高级编程/类和接口"
+    "计算机网络/1、计算机网络与因特网/三种交换技术.md",
+    "Pasted image 20250801233630.png",
+    "z_picture/Pasted image 20250801230631.png",
+    "计算机网络/1、计算机网络与因特网/计算机网络.md",
+    "计算机网络/1、计算机网络与因特网/2、网络核心（通信子网）.md",
+    "计算机网络/1、计算机网络与因特网/3、TCP，IP协议.md"
   ]
 }
