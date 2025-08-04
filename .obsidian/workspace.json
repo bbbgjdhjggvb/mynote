@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/1、计算机网络与因特网/3、TCP，IP协议.md",
+                "file": "编程语言/Go/1. 基础知识/4. 输入输出.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3、TCP，IP协议"
+              "title": "4. 输入输出"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/1、计算机网络与因特网/3、TCP，IP协议.md",
+                "file": "Excalidraw/SQL除.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "3、TCP，IP协议 的反向链接列表"
+              "title": "SQL除 的反向链接列表"
             }
           },
           {
@@ -182,11 +182,23 @@
   },
   "active": "47a20889a655ede7",
   "lastOpenFiles": [
+    "编程语言/Go/1. 基础知识/12. 枚举常量.md",
+    "编程语言/Go/1. 基础知识/11. 异常处理机制.md",
+    "Excalidraw/SQL除.md",
+    "Excalidraw/Kahn.md",
+    "Excalidraw/git原理.md",
+    "Excalidraw/Fast forward模式.md",
+    "Excalidraw/循环神经网络.md",
     "计算机网络/1、计算机网络与因特网/三种交换技术.md",
-    "Pasted image 20250801233630.png",
-    "z_picture/Pasted image 20250801230631.png",
     "计算机网络/1、计算机网络与因特网/计算机网络.md",
-    "计算机网络/1、计算机网络与因特网/2、网络核心（通信子网）.md",
-    "计算机网络/1、计算机网络与因特网/3、TCP，IP协议.md"
+    "编程语言/Go/4. 并发编程/4. 同步原语.md",
+    "编程语言/Go/4. 并发编程/3. 设置cpu数目.md",
+    "编程语言/Go/4. 并发编程/1. goruntine.md",
+    "编程语言/Go/4. 并发编程/2. GMP模式.md",
+    "编程语言/Go/4. 并发编程/5. 信道.md",
+    "计算机网络/1、计算机网络与因特网/3、TCP，IP协议.md",
+    "z_picture/Pasted image 20250801233630.png",
+    "z_picture/Pasted image 20250801230631.png",
+    "计算机网络/1、计算机网络与因特网/2、网络核心（通信子网）.md"
   ]
 }
