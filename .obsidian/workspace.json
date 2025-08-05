@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程语言/Go/1. 基础知识/4. 输入输出.md",
+                "file": "english/词根词缀/词根/5. cern、cert、crim、cris、crit、cret、cree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. 输入输出"
+              "title": "5. cern、cert、crim、cris、crit、cret、cree"
             }
           }
         ]
@@ -182,6 +182,9 @@
   },
   "active": "47a20889a655ede7",
   "lastOpenFiles": [
+    "english/词根词缀/词根/4. ver, vers, vert, vol, var = to turn 表示扭、卷.md",
+    "english/词根词缀/词根/5. cern、cert、crim、cris、crit、cret、cree.md",
+    "编程语言/Go/1. 基础知识/4. 输入输出.md",
     "编程语言/Go/1. 基础知识/12. 枚举常量.md",
     "编程语言/Go/1. 基础知识/11. 异常处理机制.md",
     "Excalidraw/SQL除.md",
