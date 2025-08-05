@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eb3027955591a75c",
+        "id": "8d81dfb74338ce2b",
         "type": "tabs",
         "children": [
           {
-            "id": "9178454da26fe10c",
+            "id": "cd94c18602c7d4de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程语言/C++/8. 数据结构和算法/9. unordered_map.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "9. unordered_map"
+              "title": "新标签页"
             }
           }
         ]
@@ -180,12 +176,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9178454da26fe10c",
+  "active": "cd94c18602c7d4de",
   "lastOpenFiles": [
+    "english/词根词缀/词根/4. ver, vers, vert, vol, var = to turn 表示扭、卷.md",
+    "english/词根词缀/词根/3. ver, vers, vert, vol, var = to turn 表示转.md",
+    "english/词根词缀/词根/2. van、ven、vent.md",
+    "english/词根词缀/词根/1. cess、ceed、cede、grad、gress.md",
+    "编程语言/C++/8. 数据结构和算法/9. unordered_map.md",
     "编程语言/C++/8. 数据结构和算法/7. set.md",
     "编程语言/C++/8. 数据结构和算法/10. 实现集合操作.md",
     "编程语言/C++/8. 数据结构和算法/8. map.md",
-    "编程语言/C++/8. 数据结构和算法/9. unordered_map.md",
     "编程语言/C++/8. 数据结构和算法/6. priority_queue.md",
     "编程语言/C++/8. 数据结构和算法/5. deque.md",
     "编程语言/C++/8. 数据结构和算法/4. list.md",
@@ -205,13 +205,9 @@
     "english/词根词缀/规则.md",
     "conflict-files-obsidian-git.md",
     "计算机网络/1、计算机网络与因特网/计算机网络.md",
-    "计算机网络/1、计算机网络与因特网/三种交换技术.md",
-    "编程语言/Go/4. 并发编程/4. 同步原语.md",
     "z_picture/Pasted image 20250801233630.png",
     "z_picture/Pasted image 20250801230631.png",
     "z_picture/Pasted image 20250731224443.png",
-    "english/词根词缀/前缀/16. ad、ac.md",
-    "english/词根词缀/前缀/17. comment.md",
     "编程语言/Go/websocket",
     "编程语言/Go/5. 网络编程/未命名",
     "Pasted image 20250728115309.png",
