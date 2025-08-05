@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "83df723dac891422",
+        "id": "80b483d5a5647834",
         "type": "tabs",
         "children": [
           {
-            "id": "47a20889a655ede7",
+            "id": "37562d2c8e73ed26",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "english/词根词缀/词根/5. cern、cert、crim、cris、crit、cret、cree.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "5. cern、cert、crim、cris、crit、cret、cree"
+              "title": "新标签页"
             }
           }
         ]
@@ -180,10 +176,27 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "47a20889a655ede7",
+  "active": "36e189c402b037a7",
   "lastOpenFiles": [
-    "english/词根词缀/词根/4. ver, vers, vert, vol, var = to turn 表示扭、卷.md",
+    "z_picture/0cadc0cec286533de03d3c568c324464.jpg",
+    "english/词根词缀/前缀/22. per.md",
+    "conflict-files-obsidian-git.md",
     "english/词根词缀/词根/5. cern、cert、crim、cris、crit、cret、cree.md",
+    "编程语言/C++/8. 数据结构和算法/9. unordered_map.md",
+    "编程语言/C++/8. 数据结构和算法/4. list.md",
+    "编程语言/C++/8. 数据结构和算法/7. set.md",
+    "编程语言/C++/8. 数据结构和算法/8. map.md",
+    "编程语言/C++/8. 数据结构和算法/6. priority_queue.md",
+    "编程语言/C++/8. 数据结构和算法/5. deque.md",
+    "编程语言/C++/8. 数据结构和算法/10. 实现集合操作.md",
+    "编程语言/C++/8. 数据结构和算法/3. stack.md",
+    "编程语言/C++/8. 数据结构和算法/2. string.md",
+    "编程语言/C++/8. 数据结构和算法/1. vector.md",
+    "编程语言/C++/8. 数据结构和算法",
+    "数据库/redis/13. redis锁.md",
+    "数据库/redis/12. 高可用.md",
+    "数据库/mysql/16、InnoDB.md",
+    "english/词根词缀/词根/4. ver, vers, vert, vol, var = to turn 表示扭、卷.md",
     "编程语言/Go/1. 基础知识/4. 输入输出.md",
     "编程语言/Go/1. 基础知识/12. 枚举常量.md",
     "编程语言/Go/1. 基础知识/11. 异常处理机制.md",
@@ -192,16 +205,7 @@
     "Excalidraw/git原理.md",
     "Excalidraw/Fast forward模式.md",
     "Excalidraw/循环神经网络.md",
-    "计算机网络/1、计算机网络与因特网/三种交换技术.md",
-    "计算机网络/1、计算机网络与因特网/计算机网络.md",
-    "编程语言/Go/4. 并发编程/4. 同步原语.md",
-    "编程语言/Go/4. 并发编程/3. 设置cpu数目.md",
-    "编程语言/Go/4. 并发编程/1. goruntine.md",
-    "编程语言/Go/4. 并发编程/2. GMP模式.md",
-    "编程语言/Go/4. 并发编程/5. 信道.md",
-    "计算机网络/1、计算机网络与因特网/3、TCP，IP协议.md",
     "z_picture/Pasted image 20250801233630.png",
-    "z_picture/Pasted image 20250801230631.png",
-    "计算机网络/1、计算机网络与因特网/2、网络核心（通信子网）.md"
+    "z_picture/Pasted image 20250801230631.png"
   ]
 }
