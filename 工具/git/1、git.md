@@ -61,5 +61,5 @@ git add hi.txt
 1. --hard：重置到指定提交，清除暂存区和实际文件更改
 2. --soft：重置到指定提交，保留暂存区和实际文件更改
 3. --mixed（默认）：重置到指定提交，取消暂存区，保留实际文件更改。用来撤销commit 
-`git checkout -- <file>`：取消工作区修改
+`git checkout --<file>`：取消工作区修改
 
